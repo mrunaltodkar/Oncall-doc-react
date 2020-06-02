@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  }
+
+  .logo{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+  } 
+  
+  .box-input {
+    position: relative;
+    top: 90px;
+  }
+  
+  input {
+    outline: 0 !important;
+    border-width: 0 0 1px 0 !important;
+    border-color: rgb(20, 19, 19) !important;
+    margin: 0 auto;
+  }
+
+  .body-background {
+    background-color: rgb(230, 119, 68);
+  }

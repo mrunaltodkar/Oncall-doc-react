@@ -1,0 +1,237 @@
+.go-cidCont {
+    position: relative;
+    padding: 24px 0;
+    background-color: #2b4f8c;
+    }
+    .go-cidBox {
+    position: relative;
+    margin: 24px auto 0;
+    overflow: hidden;
+    padding: 24px;
+    background-color: #fff;
+    border-radius: 4px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 280px;
+    }
+    .go-cidCopy {
+    position: relative;
+    width: 64%;
+    height: 100%;
+    border-right: 2px solid #ecf1f7;
+    padding: 0 30px 0 0;
+    }
+    
+    .go-cdBox go-smooth {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 0 0 15px;
+    }
+    /* .go-smooth {
+    -webkit-transition: 0.5s;
+    } */
+    .paratext {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    order: 1;
+    
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    }
+    .go-cid-cont {
+    border-top: 2px solid #ecf1f7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: calc(100% - 40px);
+    padding: 15px 0;
+    position: relative;
+    width: 90%;
+    }
+    .go-ccCont {
+    position: relative;
+    width: 98%;
+    margin: 16px 0;
+    border-radius: 5px;
+    background-color: #ecf1f7;
+    padding: 12px 24px;
+    text-align: left;
+    text-transform: uppercase;
+    border: 2px dashed #575757;
+    }
+    .go-cidCC {
+    position: absolute;
+    text-align: center;
+    padding: 16px 28px;
+    color: #fff;
+    top: 2px;
+    right: 2px;
+    z-index: 4;
+    background-color: #509cde;
+    border-radius: 5px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    height: 92%;
+    cursor: pointer;
+    background: #2491ef;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    }
+    .go-cidCC:before {
+    content: "copy code";
+    text-transform: uppercase;
+    }
+    
+    .go-coupDetails {
+    position: relative;
+    width: 33%;
+    height: 100%;
+    padding-right: 10px;
+    overflow: hidden;
+    }
+    .hdesc {
+    font-size: 14px;
+    margin: 0 0 20px;
+    padding: 0 0 10px;
+    position: relative;
+    border-bottom: 2px solid #ecf1f7;
+    width: 65%;
+    text-align: left;
+    }
+    .go-cdDesc go-smooth {
+    bottom: 0;
+    height: calc(100% - 50px);
+    overflow: auto;
+    }
+    .design {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    font-family: Roboto, Arial, Calibiri, sans-serif;
+    color: #16171a;
+    font-size: 14px;
+    }
+    /* @media only screen and (min-width: 1200px) 
+    .container {
+    width: 1096px;
+    } */
+    
+    .go-cidRC {
+    position: relative;
+    margin: 24px auto 0;
+    }
+    
+    .designh1 {
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.3px;
+    position: relative;
+    margin: 0 auto 24px;
+    padding-bottom: 12px;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: Roboto, Arial, Calibiri, sans-serif;
+    color: #16171a;
+    }
+    .designh1::after {
+    content: "";
+    position: absolute;
+    width: 188px;
+    height: 1px;
+    background-color: #000;
+    left: 0;
+    bottom: 0;
+    }
+    .go-crcBox {
+    position: relative;
+    border-radius: 5px;
+    background-color: #fff;
+    border: solid 3px #dfe7ef;
+    padding: 12px 24px;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: Roboto, Arial, Calibiri, sans-serif;
+    color: #16171a;
+    }
+    .list-inline {
+    margin: 0 -6px;
+    font-size: 0;
+    padding: 0;
+    list-style-type: none;
+    }
+    .styles {
+    display: block;
+    margin: 18px auto 12px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    }
+    .go-cidRC > ul {
+    margin: 0 -12px;
+    }
+    .go-cidRC > ul > li {
+    padding: 0 12px;
+    margin: 0 auto 24px;
+    width: 33.33%;
+    vertical-align: top;
+    }
+    .list-inline > li {
+    padding: 0 6px;
+    font-size: 14px;
+    display: inline-block;
+    }
+    .go-crcBox > span > img {
+    max-height: 40px;
+    }
+    img {
+    max-width: 100%;
+    vertical-align: bottom;
+    }
+    .go-crcBox > b {
+    display: block;
+    margin: 18px auto 12px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    }
+    .go-crcBox > h2 {
+    margin: 0 auto 16px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    height: 62px;
+    overflow: hidden;
+    }
+    .go-cur {
+    cursor: pointer;
+    }
+    .go-crcBox > a {
+    font-weight: 500;
+    color: #519cde;
+    letter-spacing: 0.3px;
+    }
+    a {
+    text-decoration: none;
+    display: inline-block;
+    color: #16171a;
+    }
+    

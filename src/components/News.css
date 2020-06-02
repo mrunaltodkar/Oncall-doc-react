@@ -1,0 +1,115 @@
+.n-wrapper-0-2-74 > * {
+    margin-top: 48px;
+    }
+    .n-container-0-2-90 {
+    display: grid;
+    grid-row-gap: 28px;
+    grid-auto-rows: max-content;
+    grid-column-gap: 21px;
+    grid-template-columns: 1fr 1fr 1fr;
+    }
+    .n-container-0-2-90 > *:nth-child(1) {
+    grid-column-end: span 3;
+    }
+    .mr-container-0-2-92 {
+    width: max-content;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    /* grid-column-end: span 3; */
+    transition: 0.2s;
+    color: inherit;
+    cursor: pointer;
+    text-decoration: none;
+    }
+    .h3 {
+    font-size: 28px;
+    letter-spacing: -0.8px;
+    line-height: 37px;
+    font-family: Eina03, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: bold;
+    font-variant-numeric: proportional-nums;
+    }
+    .mr-arrowContainer-0-2-94 {
+    width: 48px;
+    height: 48px;
+    }
+    .mr-arrowRight-0-2-95 {
+    width: 8px;
+    height: 8px;
+    transform: rotate(-45deg);
+    margin-top: 23px;
+    margin-left: 18px;
+    border-right: 1px solid #292a2a;
+    border-bottom: 1px solid #292a2a;
+    }
+    .n-container-0-2-90 > * {
+    grid-column-end: span 1;
+    }
+    
+    .n-container-0-2-96 {
+    display: flex;
+    flex-direction: column;
+    }
+    .n-coverPhoto-0-2-97 {
+    height: 185px;
+    margin-bottom: 20px;
+    }
+    .n-photo-0-2-102 {
+    width: 100%;
+    height: 100%;
+    display: block;
+    transition: 0.2s;
+    background-size: cover;
+    background-position: center;
+    }
+    .Sr-container-0-2-103 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    }
+    *[id^="honey"] .label3 {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    }
+    .Sr-publication-0-2-104 {
+    color: #3d68fb;
+    }
+    *[id^="honey"] * {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    }
+    .Sr-divider-0-2-105 {
+    width: 1px;
+    height: 28px;
+    margin: 0px 15px;
+    background-color: #e7e7e7;
+    }
+    .Sr-date-0-2-106 {
+    color: #808080;
+    }
+    *[id^="honey"] .title4 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    cursor: pointer;
+    color: #292a2a;
+    margin: 16px 0px;
+    font-family: SuisseIntl, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    }
+    .n-title-0-2-99 {
+    color: #292a2a;
+    margin: 16px 0px;
+    }
+    *[id^="honey"] .body4 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    }
+    .n-tag-0-2-100 {
+    color: #808080;
+    }
+    
