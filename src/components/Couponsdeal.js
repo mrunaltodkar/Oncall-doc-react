@@ -11,6 +11,15 @@ import { News } from './News';
 import { AboutUs } from './About';
 import { Coupons } from './Coupons';
 import { Categories } from './Categories';
+import Doctors from './Doctors';
+import DoctorLogin from './DoctorLogin';
+import DoctorSignup from './DoctorSignup';
+import PaymentCard from './PaymentCard';
+import Admin from './Admin';
+import AdminDoctorList from './AdminDoctorList';
+import AdminCustomerList from './AdminCustomerList';
+import MyPayments from './MyPayments';
+import MyWishlist from './MyWishlist';
 
 function Couponsdeal() {
     return (
@@ -27,6 +36,15 @@ function Couponsdeal() {
                     <Route path="/about-us" component={AboutUs} />
                     <Route path="/coupons" component={Coupons} />
                     <Route path="/categories" component={Categories} />
+                    <Route path="/doctors" component={Doctors} />
+                    <Route path="/doctor-login" component={DoctorLogin} />
+                    <Route path="/doctor-signup" component={DoctorSignup} />
+                    <Route path="/payment" component={PaymentCard} />
+                    <Route path="/mypayments" component={MyPayments} />
+                    <Route path="/mywishlists" component={MyWishlist} />
+                    <Route path="/admin" component={Admin} />
+                    <Route path="/doctor/list/admin" component={AdminDoctorList}/>
+                    <Route path="/customer/list/admin" component={AdminCustomerList}/>
                 </Switch>
                 <Footer />
             </div>

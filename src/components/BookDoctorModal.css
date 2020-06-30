@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;
+    margin-top:5%;
+}
+
+.description{
+    width: 67%;
+    padding: 3% 2%;
+    margin: 10px 10px;
+    border: 1px solid rgb(79, 129, 223);
+    border-radius: 5px;
+    font-family: 'PT Mono', monospace;
+    display: float;
+    background-color: rgb(248, 218, 219);
+    
+}
+
+.description .input{
+    border: 1px solid black;
+    border-radius: 5px;
+}

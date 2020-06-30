@@ -3,10 +3,8 @@
     background-color:rgb(55, 61, 55);
     bottom: 0px;
     width: 100%;
-    padding:10px;
-     padding-bottom:60px; 
-     position: relative;
-     bottom:0;
-     width:100%;
-     height:290px;   
+    padding-block: 66;
+    position: relative;
+    width:100%;
+    height:280px;   
   }

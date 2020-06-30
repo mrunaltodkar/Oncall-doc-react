@@ -48,14 +48,14 @@ Newly Added Stores
                                             href="https://www.lesskart.com/store/lenskart.com/"
                                             target="blank"
                                             rel="nofollow"
-                                            class="btn btn-info btn-embossed btn-block btn-hm"
+                                            className="btn btn-info btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; jQuery('#hide-578169').hide();jQuery('div-578169').removeClass('hide').addClass('show');"
                                         >
                                             Get This Deal
                                         </a>
                                     </div>
-                                    <div-578169 class="hide">
-                                        <span class=" btn clicktoreveal-code btn-hm">
+                                    <div-578169 className="hide">
+                                        <span className=" btn clicktoreveal-code btn-hm">
                                             {" "}
                                             Deal Activated{" "}
                                         </span>
@@ -73,15 +73,15 @@ Newly Added Stores
                                             href="https://www.licious.in/?utm_source=INLS&utm_medium=Affiliate&utm_campaign=CPS_3__3272_1_94551_cc_c_0_0"
                                             target="blank"
                                             rel="nofollow"
-                                            class="btn btn-info btn-embossed btn-block btn-hm"
+                                            className="btn btn-info btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; jQuery('#hide-578169').hide();jQuery('div-578169').removeClass('hide').addClass('show');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-495560 class="hide">
+                                    <div-495560 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm"> NEW20</span>
+                                        <span className="btn clicktoreveal-code btn-hm"> NEW20</span>
                                     </div-495560>
                                 </div>
                             </div>
@@ -97,15 +97,15 @@ Newly Added Stores
                                         <a
                                             href="https://www.couponzguru.com/out/576291"
                                             rel="nofollow"
-                                            class="btn btn-primary btn-embossed btn-block btn-hm"
+                                            className="btn btn-primary btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://www.couponzguru.com/?c=576291');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-576291 class="hide">
+                                    <div-576291 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm"> APT20</span>
+                                        <span className="btn clicktoreveal-code btn-hm"> APT20</span>
                                     </div-576291>
                                 </div>
                             </div>
@@ -120,21 +120,21 @@ Newly Added Stores
                                         <a
                                             href="https://www.couponzguru.com/out/574969"
                                             rel="nofollow"
-                                            class="btn btn-primary btn-embossed btn-block btn-hm"
+                                            className="btn btn-primary btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://www.couponzguru.com/?c=574969');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-574969 class="hide">
+                                    <div-574969 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm"> GURU25</span>
+                                        <span className="btn clicktoreveal-code btn-hm"> GURU25</span>
                                     </div-574969>
                                 </div>
                             </div>
 
                             <div
-                                class="col-md-16"
+                                className="col-md-16"
                                 style={{ textAlign: "center", marginBottom: "10px" }}
                             >
                                 {" "}
@@ -176,15 +176,15 @@ Mobiles & Electronics Offers
                                             href="https://www.couponzguru.com/out/165721"
                                             target="blank"
                                             rel="nofollow"
-                                            class="btn btn-info btn-embossed btn-block btn-hm"
+                                            className="btn btn-info btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; jQuery('#hide-165721').hide();jQuery('div-165721').removeClass('hide').addClass('show');"
                                         >
                                             Get This Deal
 </a>
                                     </div>
-                                    <div-165721 class="hide">
+                                    <div-165721 className="hide">
                                         {" "}
-                                        <span class=" btn clicktoreveal-code btn-hm">
+                                        <span className=" btn clicktoreveal-code btn-hm">
                                             {" "}
 Deal Activated{" "}
                                         </span>
@@ -204,15 +204,15 @@ Deal Activated{" "}
                                             href="https://www.couponzguru.com/out/568851"
                                             target="blank"
                                             rel="nofollow"
-                                            class="btn btn-info btn-embossed btn-block btn-hm"
+                                            className="btn btn-info btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; jQuery('#hide-568851').hide();jQuery('div-568851').removeClass('hide').addClass('show');"
                                         >
                                             Get This Deal
 </a>
                                     </div>
-                                    <div-568851 class="hide">
+                                    <div-568851 className="hide">
                                         {" "}
-                                        <span class=" btn clicktoreveal-code btn-hm">
+                                        <span className=" btn clicktoreveal-code btn-hm">
                                             {" "}
 Deal Activated{" "}
                                         </span>
@@ -231,15 +231,15 @@ Deal Activated{" "}
                                         <a
                                             href="https://www.couponzguru.com/out/510060"
                                             rel="nofollow"
-                                            class="btn btn-primary btn-embossed btn-block btn-hm"
+                                            className="btn btn-primary btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://www.couponzguru.com/?c=510060');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-510060 class="hide">
+                                    <div-510060 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm"> CRMAOMG5</span>
+                                        <span className="btn clicktoreveal-code btn-hm"> CRMAOMG5</span>
                                     </div-510060>
                                 </div>
                             </div>
@@ -256,15 +256,15 @@ Deal Activated{" "}
                                             href="https://www.couponzguru.com/out/540311"
                                             target="blank"
                                             rel="nofollow"
-                                            class="btn btn-info btn-embossed btn-block btn-hm"
+                                            className="btn btn-info btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; jQuery('#hide-540311').hide();jQuery('div-540311').removeClass('hide').addClass('show');"
                                         >
                                             Get This Deal
 </a>
                                     </div>
-                                    <div-540311 class="hide">
+                                    <div-540311 className="hide">
                                         {" "}
-                                        <span class=" btn clicktoreveal-code btn-hm">
+                                        <span className=" btn clicktoreveal-code btn-hm">
                                             {" "}
 Deal Activated{" "}
                                         </span>
@@ -273,7 +273,7 @@ Deal Activated{" "}
                             </div>
 
                             <div
-                                class="col-md-16"
+                                className="col-md-16"
                                 style={{ textAlign: "center", marginBottom: "10px" }}
                             >
                                 {" "}
@@ -314,15 +314,15 @@ Clothing & Footwear Offers
                                             href="https://www.couponzguru.com/out/469426"
                                             target="blank"
                                             rel="nofollow"
-                                            class="btn btn-info btn-embossed btn-block btn-hm"
+                                            className="btn btn-info btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; jQuery('#hide-469426').hide();jQuery('div-469426').removeClass('hide').addClass('show');"
                                         >
                                             Get This Deal
 </a>
                                     </div>
-                                    <div-469426 class="hide">
+                                    <div-469426 className="hide">
                                         {" "}
-                                        <span class=" btn clicktoreveal-code btn-hm">
+                                        <span className=" btn clicktoreveal-code btn-hm">
                                             {" "}
 Deal Activated{" "}
                                         </span>
@@ -342,15 +342,15 @@ Deal Activated{" "}
                                             href="https://www.couponzguru.com/out/455548"
                                             target="blank"
                                             rel="nofollow"
-                                            class="btn btn-info btn-embossed btn-block btn-hm"
+                                            className="btn btn-info btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; jQuery('#hide-455548').hide();jQuery('div-455548').removeClass('hide').addClass('show');"
                                         >
                                             Get This Deal
 </a>
                                     </div>
-                                    <div-455548 class="hide">
+                                    <div-455548 className="hide">
                                         {" "}
-                                        <span class=" btn clicktoreveal-code btn-hm">
+                                        <span className=" btn clicktoreveal-code btn-hm">
                                             {" "}
 Deal Activated{" "}
                                         </span>
@@ -369,15 +369,15 @@ Deal Activated{" "}
                                         <a
                                             href="https://www.couponzguru.com/out/554394"
                                             rel="nofollow"
-                                            class="btn btn-primary btn-embossed btn-block btn-hm"
+                                            className="btn btn-primary btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://www.couponzguru.com/?c=554394');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-554394 class="hide">
+                                    <div-554394 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm"> BREEZE70</span>
+                                        <span className="btn clicktoreveal-code btn-hm"> BREEZE70</span>
                                     </div-554394>
                                 </div>
                             </div>
@@ -393,21 +393,21 @@ Deal Activated{" "}
                                         <a
                                             href="https://www.couponzguru.com/out/563093"
                                             rel="nofollow"
-                                            class="btn btn-primary btn-embossed btn-block btn-hm"
+                                            className="btn btn-primary btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://www.couponzguru.com/?c=563093');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-563093 class="hide">
+                                    <div-563093 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm"> CGURU5</span>
+                                        <span className="btn clicktoreveal-code btn-hm"> CGURU5</span>
                                     </div-563093>
                                 </div>
                             </div>
 
                             <div
-                                class="col-md-16"
+                                className="col-md-16"
                                 style={{ textAlign: "center", marginBottom: "10px" }}
                             >
                                 {" "}
@@ -447,18 +447,18 @@ Flights & Travel Offers
                                         <a
                                             href="https://www.couponzguru.com/out/436443"
                                             rel="nofollow"
-                                            class="btn btn-primary btn-embossed btn-block btn-hm"
+                                            className="btn btn-primary btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://www.couponzguru.com/?c=436443');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-436443 class="hide">
+                                    <div-436443 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm"> new20</span>
-                                        <div-436443 class="hide">
+                                        <span className="btn clicktoreveal-code btn-hm"> new20</span>
+                                        <div-436443 className="hide">
                                             {" "}
-                                            <span class="btn clicktoreveal-code btn-hm"> new20</span>
+                                            <span className="btn clicktoreveal-code btn-hm"> new20</span>
                                         </div-436443>
                                     </div-436443>
                                 </div>
@@ -478,15 +478,15 @@ Flights & Travel Offers
                                         <a
                                             href="https://www.couponzguru.com/out/550839"
                                             rel="nofollow"
-                                            class="btn btn-primary btn-embossed btn-block btn-hm"
+                                            className="btn btn-primary btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://www.couponzguru.com/?c=550839');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-550839 class="hide">
+                                    <div-550839 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm"> CGHEG</span>
+                                        <span className="btn clicktoreveal-code btn-hm"> CGHEG</span>
                                     </div-550839>
                                 </div>
                             </div>
@@ -503,15 +503,15 @@ Flights & Travel Offers
                                             href="https://www.couponzguru.com/out/541898"
                                             target="blank"
                                             rel="nofollow"
-                                            class="btn btn-info btn-embossed btn-block btn-hm"
+                                            className="btn btn-info btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; jQuery('#hide-541898').hide();jQuery('div-541898').removeClass('hide').addClass('show');"
                                         >
                                             Get This Deal
 </a>
                                     </div>
-                                    <div-541898 class="hide">
+                                    <div-541898 className="hide">
                                         {" "}
-                                        <span class=" btn clicktoreveal-code btn-hm">
+                                        <span className=" btn clicktoreveal-code btn-hm">
                                             {" "}
 Deal Activated{" "}
                                         </span>
@@ -529,15 +529,15 @@ Deal Activated{" "}
                                         <a
                                             href="https://www.couponzguru.com/out/445047"
                                             rel="nofollow"
-                                            class="btn btn-primary btn-embossed btn-block btn-hm"
+                                            className="btn btn-primary btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://www.couponzguru.com/?c=445047');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-445047 class="hide">
+                                    <div-445047 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm">
+                                        <span className="btn clicktoreveal-code btn-hm">
                                             {" "}
 SMARTBUSCG
 </span>
@@ -546,7 +546,7 @@ SMARTBUSCG
                             </div>
 
                             <div
-                                class="col-md-16"
+                                className="col-md-16"
                                 style={{ textAlign: "center", marginBottom: "10px" }}
                             >
                                 {" "}
@@ -587,15 +587,15 @@ Online Food & Groceries Offers
                                             href="https://www.couponzguru.com/out/325424"
                                             target="blank"
                                             rel="nofollow"
-                                            class="btn btn-info btn-embossed btn-block btn-hm"
+                                            className="btn btn-info btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; jQuery('#hide-325424').hide();jQuery('div-325424').removeClass('hide').addClass('show');"
                                         >
                                             Get This Deal
 </a>
                                     </div>
-                                    <div-325424 class="hide">
+                                    <div-325424 className="hide">
                                         {" "}
-                                        <span class=" btn clicktoreveal-code btn-hm">
+                                        <span className=" btn clicktoreveal-code btn-hm">
                                             {" "}
 Deal Activated{" "}
                                         </span>
@@ -614,15 +614,15 @@ Deal Activated{" "}
                                         <a
                                             href="https://www.couponzguru.com/out/374690"
                                             rel="nofollow"
-                                            class="btn btn-primary btn-embossed btn-block btn-hm"
+                                            className="btn btn-primary btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://www.couponzguru.com/?c=374690');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-374690 class="hide">
+                                    <div-374690 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm"> CGEAT50</span>
+                                        <span className="btn clicktoreveal-code btn-hm"> CGEAT50</span>
                                     </div-374690>
                                 </div>
                             </div>
@@ -639,15 +639,15 @@ Deal Activated{" "}
                                             href="https://www.couponzguru.com/out/423105"
                                             target="blank"
                                             rel="nofollow"
-                                            class="btn btn-info btn-embossed btn-block btn-hm"
+                                            className="btn btn-info btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; jQuery('#hide-423105').hide();jQuery('div-423105').removeClass('hide').addClass('show');"
                                         >
                                             Get This Deal
 </a>
                                     </div>
-                                    <div-423105 class="hide">
+                                    <div-423105 className="hide">
                                         {" "}
-                                        <span class=" btn clicktoreveal-code btn-hm">
+                                        <span className=" btn clicktoreveal-code btn-hm">
                                             {" "}
 Deal Activated{" "}
                                         </span>
@@ -666,21 +666,21 @@ Deal Activated{" "}
                                         <a
                                             href="https://www.couponzguru.com/out/565067"
                                             rel="nofollow"
-                                            class="btn btn-primary btn-embossed btn-block btn-hm"
+                                            className="btn btn-primary btn-embossed btn-block btn-hm"
                                             onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://www.couponzguru.com/?c=565067');"
                                         >
                                             Get This Coupon
 </a>
                                     </div>
-                                    <div-565067 class="hide">
+                                    <div-565067 className="hide">
                                         {" "}
-                                        <span class="btn clicktoreveal-code btn-hm"> CGM50</span>
+                                        <span className="btn clicktoreveal-code btn-hm"> CGM50</span>
                                     </div-565067>
                                 </div>
                             </div>
 
                             <div
-                                class="col-md-16"
+                                className="col-md-16"
                                 style={{ textAlign: "center", marginBottom: "10px" }}
                             >
                                 {" "}

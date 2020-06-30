@@ -1,0 +1,65 @@
+.doctorlist{
+    background-color:#111;
+    width: 90%;
+    height: 30%;
+    padding-top: 10px;
+    margin-top: 24px;
+    float: left;
+    display: grid;
+    grid-template-columns: auto auto auto;
+  
+  
+  }
+  .items{
+  
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    box-shadow: 0px 4px 10px 0px rgb(129, 28, 28);
+  
+  }
+  
+  .description{
+    margin-top: 1px;
+    float: center;
+  }
+
+  h4.itemsfont{
+    color:white;
+    text-transform: capitalize;
+    font-size: 13px;
+  }
+  
+  
+  .buttonpressitem {
+      width: 225px;
+      height: 40px;
+      margin-top: 10px;
+      background: transparent;
+      text-align: center;
+      cursor: pointer;
+      color: #eee;
+      font-weight: bold;
+      text-transform: uppercase;
+    transition: all 1s ease;
+    margin-bottom: 8px;
+  }
+  
+  .buttonpressitem:hover {
+      background: #D50000;
+      border: none;
+      transition: all 1.5s ease;
+  }
+  
+    li.uppercase {
+      text-transform: uppercase;
+    }
+
+    li.lowercase {
+        text-transform: lowercase;
+      }
+    
+      li.capitalize {
+        text-transform: capitalize;
+      }

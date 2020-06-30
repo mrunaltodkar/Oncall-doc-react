@@ -6,7 +6,6 @@ import amazon from "./images/amazon1.jpg";
 import pizza from "./images/pizza.jpg";
 import mmt from "./images/mmt.jpg"
 
-
 class Home extends Component {
     render() {
         return (
@@ -27,7 +26,7 @@ class Home extends Component {
                     </div>
                     <div className="go-poCar">
                         <div
-                            class="go-po go-cpn-show"
+                            className="go-po go-cpn-show"
                             data-ctype="mb_m_h"
                             data-pos="1"
                             data-retype="c"
@@ -42,7 +41,7 @@ class Home extends Component {
                                     width="290"
                                 />
                             </span>
-                            <div class="go-poMer">
+                            <div className="go-poMer">
                                 <p>
                                     <a href="/coupons">
                                         Flat Rs 100 Off On Orders Those Are Above Rs 500
@@ -51,7 +50,7 @@ class Home extends Component {
                             </div>
                         </div>
                         <div
-                            class="go-po go-cpn-show"
+                            className="go-po go-cpn-show"
                             data-ctype="mb_m_h"
                             data-pos="2"
                             data-retype="c"
@@ -61,13 +60,13 @@ class Home extends Component {
                             <span>
                                 <img src={mmt} alt="mmt Offers" height="140" width="290" />
                             </span>
-                            <div class="go-poMer">
+                            <div className="go-poMer">
                                 <p>Flat 55% Off on Hotel Bookings(Coupon Code - MakeMyTRIPGRABR)</p>
                             </div>
                         </div>
 
                         <div
-                            class="go-po go-cpn-show"
+                            className="go-po go-cpn-show"
                             data-ctype="mb_m_h"
                             data-pos="3"
                             data-retype="c"
@@ -77,7 +76,7 @@ class Home extends Component {
                             <span>
                                 <img src={udemy} alt="udemy Offers" height="140" width="290" />
                             </span>
-                            <div class="go-poMer">
+                            <div className="go-poMer">
                                 <p>Udemy - Get 100% OFF Free Courses Online</p>
                             </div>
                         </div>

@@ -1,0 +1,17 @@
+.imgdisplaywhishlist{
+    height: 310px;
+    width: 550px;
+    padding-top: 18px;
+    padding-left: 90px;
+    float: left;
+
+
+}
+.whishlistdescription{
+    margin-top: 1px;
+    float: center;
+    margin-bottom: 8px;
+    font-size: 50px;
+
+
+  }

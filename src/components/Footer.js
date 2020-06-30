@@ -1,7 +1,4 @@
 import React, { Component } from "react";
-// import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
-// import { SocialIcon } from "react-native-elements";
-// import { MDBIcon, MDBBtn } from "mdbreact";
 import github from "./images/github.png";
 import twitter from "./images/twitter.png";
 import instagram from "./images/instagram.jpg";

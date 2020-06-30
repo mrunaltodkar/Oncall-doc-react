@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import Logog from './images/logo_coupons.png'
 import axios from 'axios'
 import "./Signup.css"
 
